@@ -26,7 +26,7 @@ ELADMIN 前端源码
 <img src="https://eladmin.vip/images/banner/side.jpeg" style="width: 435px;border-radius: 2px;">
 </a>
 
-使用优惠码: `BWHCCNCXVV`，可获得 6.81% 的折扣， [查看介绍](https://bwhstock.in/)
+使用优惠码: `BWHCGLUKKB`，可获得 6.81% 的折扣， [查看介绍](https://bwhstock.in/)
 
 #### Build Setup
 **推荐 node 版本：12-16**
@@ -56,7 +56,14 @@ npm run build:prod
 
 2、加速node-sass安装
 
-https://www.ydyno.com/archives/1219.html
+https://izlzl.com/archives/1219.html
+
+3、出现 No module named 'distutils'
+
+```
+需要安装 python，安装 pip 或者 pip3
+然后安装 pip install distutils / pip3 install distutils
+```
 
 #### 特别鸣谢
 
